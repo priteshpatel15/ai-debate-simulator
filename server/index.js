@@ -21,6 +21,11 @@ const io = new Server(server, {
 app.use(cors());
 app.use(express.json());
 
+if (!process.env.OPENAI_API_KEY) {
+  console.error('OPENAI_API_KEY is not set. Copy server/.env.example to server/.env and add your key, or run: npm run setup');
+  process.exit(1);
+}
+
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });

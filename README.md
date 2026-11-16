@@ -10,7 +10,7 @@ Debate prep usually needs a sparring partner. This app gives you one on demand: 
 
 - **Structured debate flow**: record the moderator question, record the human candidate's answer, then generate the AI candidate's rebuttal.
 - **Context-aware rebuttals**: the AI hears both the question and your answer and responds to each.
-- **20+ fictional candidates**: from policy-heavy (a Texas governor, a surgeon, a tech founder, a veteran) to comic personas (a noir detective, a Shakespearean statesman, a Gen Z candidate).
+- **19 fictional candidates**: from policy-heavy (a Texas governor, a surgeon, a tech founder, a veteran) to comic personas (a noir detective, a Shakespearean statesman, a Gen Z candidate).
 - **Custom candidates**: write your own profile (background, positions, style, strategy) in the UI.
 - **8 OpenAI voices** with in-app voice previews.
 - **Speech recognition** in the browser for transcribing the question and answer (Chrome/Edge).
